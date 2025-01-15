@@ -76,4 +76,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### `Github Link`
 https://github.com/meRiqbal/Wobb-Assignment.git
 
-### `Vercal Deployment`
+### `Live on Vercal`
+https://wobbai.vercel.app/
